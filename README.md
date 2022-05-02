@@ -47,8 +47,7 @@ curl --location --request DELETE 'http://localhost:8000/books/12'
 ```
 
 Run app
-
-go run cmd/main/main.go
+`go run cmd/main/main.go`
 
 Build app
-go build
+`go build`
